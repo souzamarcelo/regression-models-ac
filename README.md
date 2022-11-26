@@ -2,4 +2,10 @@
 
 This repository contains a set of auxiliary functions to apply regression models in the context of algorithm configuration.
 
-[content will be added soon]
+The configuration scenarios can be found [here](https://github.com/souzamarcelo/ac-scenarios).
+
+The following ``target runner`` scripts implement the regression models:
++ [BSFS](scripts/bsfs.py/)
++ [HHTA](scripts/hhta.py/)
++ [ILSBQP](scripts/ilsbqp.py/)
++ [TSCPP](scripts/tscpp.py/)
