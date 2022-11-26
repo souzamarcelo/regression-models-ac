@@ -12,5 +12,5 @@ The following ``target runner`` scripts implement the linear regression models:
 
 Nonlinear models:
 + [BSFS - piecewise linear (2 pieces)](scripts/target-runner-bsfs-piecewise2.py)
-+ [BSFS - piecewise linear](3 pieces)](scripts/target-runner-bsfs-piecewise3.py)
++ [BSFS - piecewise linear (3 pieces)](scripts/target-runner-bsfs-piecewise3.py)
 + [BSFS - loglog linear](scripts/target-runner-bsfs-logloglin.py)
